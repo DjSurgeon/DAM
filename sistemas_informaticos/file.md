@@ -47,7 +47,6 @@ Un **sistema informático** es un conjunto de hardware y software que permite el
 - **SSD (Unidad de Estado Sólido):** Mayor velocidad, menor consumo energético.
 - **Unidades Externas:** Pendrives, discos duros portátiles y almacenamiento óptico (CD/DVD).
 - **Dispositivos de almacenamiento:** HDD, SSD, unidades externas.
-- **Periféricos de entrada/s
 
 ## Periféricos y Adaptadores
 
@@ -61,7 +60,7 @@ Los periféricos permiten la interacción entre el usuario y el sistema:
 ## Redes Informáticas
 
 ### ¿Qué es una red informática?
-Una **red informática** conecta dispositivos para compartir información y recursos. Se clasifica en:
+Una **red informática** conecta dispositivos para compartir información y recursos.
 
 ### 🔹 Tipos de Redes
 - **PAN (Personal Area Network):** Conexión entre dispositivos cercanos (ej. Bluetooth).
